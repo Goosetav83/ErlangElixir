@@ -1,5 +1,5 @@
 %%%-------------------------------------------------------------------
-%%% @author Gucio
+%%% @author Goosetav83
 %%% @copyright (C) 2025, <COMPANY>
 %%% @doc
 %%%
@@ -7,7 +7,7 @@
 %%% Created : 16. Mar 2025 7:00 PM
 %%%-------------------------------------------------------------------
 -module(myLists).
--author("Gucio").
+-author("Goosetav83").
 
 %% API
 -export([contains/2, duplicateElements/1, sumFloats/1]).

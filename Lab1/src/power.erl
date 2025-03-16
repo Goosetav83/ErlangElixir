@@ -1,5 +1,5 @@
 %%%-------------------------------------------------------------------
-%%% @author Gucio
+%%% @author Goosetav83
 %%% @copyright (C) 2025, <COMPANY>
 %%% @doc
 %%%
@@ -7,7 +7,7 @@
 %%% Created : 16. Mar 2025 6:48 PM
 %%%-------------------------------------------------------------------
 -module(power).
--author("Gucio").
+-author("Goosetav83").
 
 %% API
 -export([power/2]).

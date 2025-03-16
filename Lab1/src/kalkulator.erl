@@ -1,13 +1,13 @@
 %%%-------------------------------------------------------------------
-%%% @author Gucio
 %%% @copyright (C) 2025, <COMPANY>
+%%% @author Goosetav83
 %%% @doc
 %%%
 %%% @end
 %%% Created : 16. Mar 2025 3:53 PM
 %%%-------------------------------------------------------------------
 -module(kalkulator).
--author("Gucio").
+-author("Goosetav83").
 
 %% API
 -export([dane/0,number_of_reading/2,calculate_max/2,calculate_mean/2]).
