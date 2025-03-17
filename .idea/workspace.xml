@@ -5,21 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a698a4f-e0d0-4dc9-8629-ef71ada942d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/src/kalkulator.beam" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/src/kalkulator.erl" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/src/kalkulator.erl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/src/myLists.beam" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/src/myLists.erl" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/src/myLists.erl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/src/power.beam" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/src/power.erl" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/src/power.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/pollution.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/qsort.erl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Erlang Module" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Erlang Console.Lab1.executor": "Run",
+    "Erlang Console.Lab2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -46,7 +47,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Erlang Console.Lab2">
     <configuration name="Lab1" type="ErlangConsoleRunConfigurationType" factoryName="Erlang Console" show_console_on_std_err="false" show_console_on_std_out="false">
       <option name="allowRunningInParallel" value="false" />
       <option name="consoleArgs" value="" />
@@ -57,6 +58,20 @@
       <option name="workingDirPath" value="$PROJECT_DIR$/Lab1/src" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab2" type="ErlangConsoleRunConfigurationType" factoryName="Erlang Console" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="consoleArgs" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="workingDirPath" value="$PROJECT_DIR$/Lab2" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Erlang Console.Lab1" />
+      <item itemvalue="Erlang Console.Lab2" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
