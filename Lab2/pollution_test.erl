@@ -130,7 +130,7 @@ get_one_value_test() -> %%%!!!!!
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-get_one_value_fail_test() -> %%%!!!!!
+get_one_value_fail_test() ->
   M = pollution:add_station("Stacja 1", {1,1}, pollution:create_monitor()),
   Time = calendar:local_time(),
   M1 = pollution:add_value("Stacja 1", Time, "PM10", 46.3, M),
